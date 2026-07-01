@@ -131,7 +131,9 @@ A full-stack emergency medical identity platform that enables patients to genera
 
 <br/>
 
-[![Repo](https://img.shields.io/badge/REPOSITORY-E63946?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaphin-raj-velu/QR_-BASED_EMERGENCY-_MEDICAL-_ID)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaphin-raj-velu/QR_-BASED_EMERGENCY-_MEDICAL-_ID)
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-00C853?style=for-the-badge&logo=render&logoColor=white)](https://lifelineid-app.onrender.com/)
 
 </td>
 
@@ -250,7 +252,7 @@ Modern responsive movie discovery application with dynamic search and attractive
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaphin-raj-velu)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MOVIEBUFF)
 
 </td>
 
@@ -340,6 +342,8 @@ Modern responsive movie discovery application with dynamic search and attractive
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaphin123)
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-0A66C2?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/kaphin_10/)
+
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1VauA23RpdEwS2pTfEpFGwZS1eb_h8fLU/view?usp=drive_link)
 
 </div>
@@ -364,9 +368,7 @@ Modern responsive movie discovery application with dynamic search and attractive
 🩺 AI-powered Healthcare Applications
 🤖 Intelligent NLP & LLM Solutions
 🌐 Scalable Full-Stack Web Applications
-☁️ Cloud Computing & DevOps
 📚 Advanced Data Structures & Algorithms
-🚀 Preparing for Product-Based Software Engineering Roles
 ```
 
 </div>
@@ -379,7 +381,6 @@ Modern responsive movie discovery application with dynamic search and attractive
 
 | 🎯 Goal | Status |
 |:--------|:------:|
-| 🏆 Achieve 9+ CGPA | 🎯 In Progress |
 | 💼 Secure a Software Engineering Internship | 🚀 Working On It |
 | 🌟 Build 10+ Production-Ready Projects | 🚀 In Progress |
 | 🤝 Contribute to Open Source | 🚀 Learning |
