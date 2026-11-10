@@ -344,7 +344,7 @@ Modern responsive movie discovery application with dynamic search and attractive
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-0A66C2?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/kaphin_10/)
 
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1VauA23RpdEwS2pTfEpFGwZS1eb_h8fLU/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Eny94p0R63vEPSSOjdtrLcNsyQAc0wZZ/view)
 
 </div>
 
@@ -395,7 +395,7 @@ Modern responsive movie discovery application with dynamic search and attractive
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/1VauA23RpdEwS2pTfEpFGwZS1eb_h8fLU/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1Eny94p0R63vEPSSOjdtrLcNsyQAc0wZZ/view">
 <img src="https://img.shields.io/badge/📄%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
